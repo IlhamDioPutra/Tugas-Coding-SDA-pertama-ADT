@@ -1,6 +1,6 @@
 #Tugas coding adt ilham dio putra NPM G1A021024 dalam membuat ADT code terstruktur
 #membuat code menghitung luas dan keliling persegi panjang
-class Menghitung_volume_dan_Luas_persegiPanjang :
+class Menghitung_keliling_dan_Luas_persegiPanjang :
     #fungsi class pada python ini adalah membuat berbagai banyak
     #bagian bagian fungsi yang ada sehingga bisa memanggl ulang kode-
     #kode yang terlah kita buat
